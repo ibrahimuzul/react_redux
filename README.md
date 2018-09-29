@@ -15,4 +15,9 @@ npm install --save react-router-dom@4.2.2           eskisi npm install --save re
 
 npm install --save axios redux-promise
 
+npm install --save redux-form@6.6.3
 
+
+#### Notes
+
+Redux-form
